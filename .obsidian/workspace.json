@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "ace682781960f2b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ca3bde5e358eece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f28acb975a125b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Meeting Notes/yael-content-agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "yael-content-agent"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0e34acac405747a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d200812d2bbde70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a747ca6b796694cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "סייר קבצים"
+            }
+          },
+          {
+            "id": "e42445d3537daf0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "לחפש"
+            }
+          },
+          {
+            "id": "11e1913d89365448",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "סימניות"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "292ac3f0754b7c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "73a02b7c7468534b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbcbf808bf82f232",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vault/Meeting Notes/yael-content-agent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "קישורים נכנסים עבור yael-content-agent"
+            }
+          },
+          {
+            "id": "afdee3ae0ea2838b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vault/Meeting Notes/yael-content-agent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "קישורים יוצאים מ-yael-content-agent"
+            }
+          },
+          {
+            "id": "f398402ac9cc9aba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "תגים"
+            }
+          },
+          {
+            "id": "f00824b6ca6e3e5e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "כל המאפיינים"
+            }
+          },
+          {
+            "id": "77edfce0f18aa4f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vault/Meeting Notes/yael-content-agent.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "מתאר של yael-content-agent"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:פתח את המחליף המהיר": false,
+      "graph:פתח תצוגת גרף": false,
+      "canvas:צור קנבס חדש": false,
+      "daily-notes:פתח את ההערה של היום": false,
+      "templates:הכנס תבנית": false,
+      "command-palette:פתח את לוח הפקודות": false,
+      "bases:צור בסיס חדש": false
+    }
+  },
+  "active": "5f28acb975a125b6",
+  "lastOpenFiles": [
+    "Output/~$דוגמה.md",
+    "vault/Meeting Notes/yael-content-agent.md.tmp.22772.1777304401220",
+    "vault/Meeting Notes/yael-content-agent.md.tmp.22772.1777304369216",
+    "Output/דוגמה.md",
+    "Output/דוגמה.md.tmp.22772.1777304122781",
+    "Content/Ready/דוגמה.txt",
+    "docs/PROJECT-STRUCTURE.md.tmp.20612.1777302755308",
+    "docs/PROJECT-STRUCTURE.md.tmp.20612.1777302738705",
+    "docs/PROJECT-STRUCTURE.md.tmp.20612.1777302723466",
+    "docs/PROJECT-STRUCTURE.md.tmp.20612.1777302710107",
+    "docs/PROJECT-STRUCTURE.md.tmp.20612.1777302701070",
+    "docs/PROJECT-STRUCTURE.md.tmp.20612.1777302693155",
+    "Output/basketball-2026-04-27.md",
+    "vault/Meeting Notes/yael-content-agent.md",
+    "vault/Meeting Notes/ceo-agent-prd.md",
+    "docs/PROJECT-STRUCTURE.md",
+    "vault/Meeting Notes/nano-banana-2-yuval-setup.md",
+    "vault/Meeting Notes/skill-creator-install.md",
+    "vault/File Reference/agents-gitkeep.md",
+    "vault/File Reference/claude-md.md",
+    "docs/PRD-ceo-agent.md",
+    "ceo_agent.md",
+    "claude/CLAUDE.md",
+    "claude/skills/obsidian-vault-workflow/SKILL.md",
+    "vault/Meeting Notes/_index.md",
+    "vault/Meeting Notes/project-file-documentation.md",
+    "vault/File Reference/_index.md",
+    "vault/File Reference/obsidian-vault-workflow-skill.md",
+    "vault/File Reference/skills-gitkeep.md",
+    "claude/skills/obsidian-markdown/SKILL.md",
+    "claude/skills/obsidian-bases/SKILL.md"
+  ]
+}

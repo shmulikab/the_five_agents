@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "nano-banana-2": {
+      "command": "npx",
+      "args": ["-y", "nano-banana-2-mcp"],
+      "env": {
+        "GEMINI_API_KEY": "AIzaSyDR7DvBD3cTCLQIROvC4NWzyuYbvyxDs1s"
+      }
+    }
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\".claude/hooks/run-hook.cmd\" session-start",
+            "async": false
+          }
+        ]
+      }
+    ]
+  }
+}
